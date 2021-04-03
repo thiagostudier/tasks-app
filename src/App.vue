@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      Minhas tareafs
+      Minhas tarefas
     </header>
     <task></task>
   </div>
